@@ -1,0 +1,3 @@
+|       Nome       |       Tentativas       |       Tempo       |
+|           Minhoco|                       5|          10.900000|
+
